@@ -17,6 +17,7 @@ published: false
  Microsoft Storeが開くので、インストールしてください。
 
 ## 起動
+![windowster](https://storage.googleapis.com/zenn-user-upload/x825zzif7oemuepatprhl5b1f8iv)
 Windows Terminalでは、一つのウィンドウに複数のタブという形になっています。
 複数のタブでは、同じコマンドプロンプトや、他のコマンドプロンプトを開くことができます。
 
@@ -25,7 +26,5 @@ Windows Terminalでは、一つのウィンドウに複数のタブという形�
 ## 設定
 
 Windows Terminalでは、jsonファイルを書き換えることで設定を変更できます。
-
-![windowster]()
-
-[C]
+`Ctrl ; ,`キーを押す、又は、上部の下向きの折れ線を押した後、出てくる設定を押すと、設定が書かれたjsonファイルが開きます。
+![settings](https://storage.googleapis.com/zenn-user-upload/gv8xp42vt3catgihgwly4b59tun1)
