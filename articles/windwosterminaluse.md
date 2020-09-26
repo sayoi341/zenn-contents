@@ -50,7 +50,7 @@ setting.jsonを開くと、下の方に`list`とあります。
 `list`の中身は
 |名前|効果|
 |---|---|
-|guid|中身の文字が、上の`defaultProfile`と同じなら、始めに開く|
+|guid|中身の文字が、上の`defaultProfile`と同じなら、最初に開く|
 |name|名前|
 |hidden|`true`の場合表示されなくなり、`false`の場合表示される|
 |source または commandline|ソースです（）|
