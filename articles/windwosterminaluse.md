@@ -44,7 +44,6 @@ jsonファイルを変更する前に、背景に設定する画像を保存し�
 ### setting.jsonの書き方
 今回は、cmdの背景を変更してみます。
 ![settings.json](https://storage.googleapis.com/zenn-user-upload/y8wcjey7c2oyceablut3wech029a)
-###### 私がVSCodeを使っているので、スクショはすべてVSCodeになってしまっています。
 setting.jsonを開くと、下の方に`list`とあります。
 `list`の中身は
 |名前|効果|
