@@ -3,7 +3,7 @@ title: "コマンドプロンプトの背景画像を設定したい！"
 emoji: "😳"
 type: "tech"
 topics: ["WindowsTerminal"]
-published: false
+published: true
 ---
 
 # はじめに
