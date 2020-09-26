@@ -12,14 +12,16 @@ published: true
 
 
 # Windows Terminalをインストール・起動
+
+背景画像を設定するとしても、cmdのままですと変更が出来ません。そこで！Windows Terminalをインストールします。
+
 ## インストール
  [こちら](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)より、Windows Terminalをインストールします。
  Microsoft Storeが開くので、インストールしてください。
 
 ## 起動
 ![windowster](https://storage.googleapis.com/zenn-user-upload/x825zzif7oemuepatprhl5b1f8iv)
-Windows Terminalでは、一つのウィンドウに複数のタブという形になっています。
-複数のタブでは、同じコマンドプロンプトや、他のコマンドプロンプトを開くことができます。
+Windows Terminalでは、PCにインストールされている様々なコマンドプロンプトを一つにまとめて使うことができます。
 
 # 背景画像の設定
 
