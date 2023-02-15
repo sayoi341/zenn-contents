@@ -3,7 +3,7 @@ title: "EAGLEとKitMillで回路基板を作ろう"
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["電子工作","基板","回路設計"]
-published: false
+published: ture
 ---
 ## 前書き
 茨城高専ロボット部の回路班向けの資料となっています。
@@ -30,6 +30,7 @@ EAGLEを使用し、`RS-274X`形式のガーバーデータを生成します。
 をダウンロードします。
 
 リンクは[ここ](https://github.com/sayoi341/camfiles)です。
+https://github.com/sayoi341/camfiles
 
 #### EAGLE用に配置
 
@@ -56,7 +57,7 @@ CAM Processor(工場のマーク)を開き、Load job file(ファイルのマー
 ![](https://storage.googleapis.com/zenn-user-upload/0ea2bb2d64a5-20230215.png)
 **successfully**って出たら勝ちです。
 
-たくさんできますが、一覧表はこちら[^1]
+たくさんできますが、一覧表はこちら
 
 | 説明               | 拡張子 |
 | ------------------ | ------ |
